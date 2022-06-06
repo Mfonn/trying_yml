@@ -1,0 +1,20 @@
+{
+  "name": "trying_yml",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "build": "node index.js > /app/dist.txt"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mfonn/trying_yml.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mfonn/trying_yml/issues"
+  },
+  "homepage": "https://github.com/Mfonn/trying_yml#readme"
+}
